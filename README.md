@@ -1,0 +1,1 @@
+Bienvenue dans le projet Blocus, un jeu de stratégie en tour par tour codé entièrement en langage C. Ce jeu oppose deux joueurs qui se déplacent sur une grille, chacun tentant de bloquer l’autre en condamnant progressivement des cases. Le premier joueur à ne plus pouvoir se déplacer perd la partie.
